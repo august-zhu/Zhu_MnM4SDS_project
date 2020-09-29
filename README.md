@@ -1,5 +1,5 @@
 # GEOG788P Models and Methods for Spatial Data Science Project
-### Fall 220
+### Fall 2020
 ### Guimin Zhu
 
 Tentative Title: TBD  
