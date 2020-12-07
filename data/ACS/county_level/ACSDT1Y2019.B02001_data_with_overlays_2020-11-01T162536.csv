@@ -1,0 +1,19 @@
+GEO_ID,NAME,B02001_001E,B02001_001M,B02001_002E,B02001_002M,B02001_003E,B02001_003M,B02001_004E,B02001_004M,B02001_005E,B02001_005M,B02001_006E,B02001_006M,B02001_007E,B02001_007M,B02001_008E,B02001_008M,B02001_009E,B02001_009M,B02001_010E,B02001_010M
+id,Geographic Area Name,Estimate!!Total:,Margin of Error!!Total:,Estimate!!Total:!!White alone,Margin of Error!!Total:!!White alone,Estimate!!Total:!!Black or African American alone,Margin of Error!!Total:!!Black or African American alone,Estimate!!Total:!!American Indian and Alaska Native alone,Margin of Error!!Total:!!American Indian and Alaska Native alone,Estimate!!Total:!!Asian alone,Margin of Error!!Total:!!Asian alone,Estimate!!Total:!!Native Hawaiian and Other Pacific Islander alone,Margin of Error!!Total:!!Native Hawaiian and Other Pacific Islander alone,Estimate!!Total:!!Some other race alone,Margin of Error!!Total:!!Some other race alone,Estimate!!Total:!!Two or more races:,Margin of Error!!Total:!!Two or more races:,Estimate!!Total:!!Two or more races:!!Two races including Some other race,Margin of Error!!Total:!!Two or more races:!!Two races including Some other race,"Estimate!!Total:!!Two or more races:!!Two races excluding Some other race, and three or more races","Margin of Error!!Total:!!Two or more races:!!Two races excluding Some other race, and three or more races"
+0500000US24001,"Allegany County, Maryland",70416,*****,61563,317,5642,811,124,106,815,173,15,60,53,95,2204,829,95,86,2109,807
+0500000US24003,"Anne Arundel County, Maryland",579234,*****,417915,3543,101926,3217,1312,950,21617,1828,103,112,10105,3467,26256,3799,1739,1246,24517,3278
+0500000US24005,"Baltimore County, Maryland",827370,*****,483230,4914,248401,3665,2305,650,50514,1949,429,62,20267,5322,22224,3809,2224,1285,20000,3605
+0500000US24009,"Calvert County, Maryland",92525,*****,75277,413,11807,1207,208,283,1448,762,54,112,205,330,3526,1435,0,210,3526,1435
+0500000US24013,"Carroll County, Maryland",168447,*****,153803,821,6294,893,456,424,3332,473,0,210,706,407,3856,1059,0,210,3856,1059
+0500000US24015,"Cecil County, Maryland",102855,*****,90092,1165,7715,1247,0,210,1859,170,0,210,369,382,2820,1055,441,569,2379,1005
+0500000US24017,"Charles County, Maryland",163257,*****,66778,1721,82621,1694,182,200,5467,575,50,80,2036,1366,6123,1522,354,415,5769,1500
+0500000US24021,"Frederick County, Maryland",259547,*****,206661,2342,27065,3034,963,692,12349,890,77,129,3076,1227,9356,2650,782,722,8574,2298
+0500000US24025,"Harford County, Maryland",255441,*****,199416,1565,36306,2200,165,304,7299,966,92,173,3310,1316,8853,2298,422,329,8431,2260
+0500000US24027,"Howard County, Maryland",325690,*****,179563,2349,64061,2056,1609,956,60235,1699,230,252,3873,1703,16119,2759,1471,1116,14648,2530
+0500000US24031,"Montgomery County, Maryland",1050688,*****,536605,10545,200076,3325,4413,1444,157335,2917,252,319,106894,10680,45113,4896,7886,2645,37227,3942
+0500000US24033,"Prince George's County, Maryland",909327,*****,145611,6254,561709,4564,3262,557,37198,1585,741,782,134238,6346,26568,4024,2306,846,24262,4039
+0500000US24037,"St. Mary's County, Maryland",113510,*****,87179,1533,17644,1172,102,198,2390,1082,0,210,1769,1379,4426,1680,362,520,4064,1530
+0500000US24043,"Washington County, Maryland",151049,*****,121625,1446,18086,1802,109,149,3125,300,111,141,2104,1388,5889,1965,185,170,5704,1962
+0500000US24045,"Wicomico County, Maryland",103609,*****,67608,1456,26744,1574,785,805,3333,349,56,107,2332,1563,2751,1187,377,601,2374,1097
+0500000US24510,"Baltimore city, Maryland",593490,*****,179979,3430,371243,2369,2206,606,15776,831,243,272,11425,3780,12618,2467,1377,960,11241,2288
+,TOTAL,,,3072905,,1787340,,18201,,384092,,2453,,302762,,,,,,,
